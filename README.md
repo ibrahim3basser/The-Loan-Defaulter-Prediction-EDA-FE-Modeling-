@@ -2,6 +2,9 @@
 
 The **Loan Default Prediction** project aims to leverage data science techniques to assess the likelihood of borrowers defaulting on loans. The goal is to build predictive models that use historical loan data to identify patterns and factors contributing to defaults, enabling financial institutions to make informed lending decisions by accurately predicting the risk of default for new loan applicants.
 
+## Dataset
+The dataset used for this project can be found on Kaggle: [Loan Defaulter Dataset](https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter)
+
 ## 1. Preprocessing
 - Clean and preprocess the data by handling missing values, removing outliers, and encoding categorical variables to prepare the dataset for analysis.
 
@@ -20,4 +23,3 @@ The **Loan Default Prediction** project aims to leverage data science techniques
 ## 5. Model Deployment
 - Integrate the best-performing model into a user-friendly interface for financial analysts and decision-makers.
 - Provide clear interpretations of the model’s predictions and highlight the key factors driving them.
-
